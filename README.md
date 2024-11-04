@@ -28,6 +28,12 @@ The Northwind Traders dataset contains information about:
 - SQLAlchemy: For handling SQLite database connections.
 - Jupyter Notebook: To run and showcase the analysis steps.
 
+## Skills Practiced
+
+- Data tables joins
+
+ ![sql_joins](https://github.com/georgembugua00/NorthWind_Traders/blob/master/data/images/sql_joins.png)
+
 ## Aggregations and Analyses
 - Total Revenue per Product
 
